@@ -56,8 +56,8 @@ Before running the project, make sure the following software is installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Divya-Jyoti-Dev/Library-Management-System-GUI-.git
-cd Library-Management-System-GUI-
+git clone https://github.com/Divya-Jyoti-Dev/Library-Management-System-TERMINAL-.git
+cd Library-Management-System-TERMINAL-
 ```
 
 ### Compile the Project
@@ -199,6 +199,22 @@ Some planned enhancements include:
 
 ---
 
+## Screenshots
+
+**Login Window**
+Add screenshot here.
+
+**Book Catalog**
+Add screenshot here.
+
+**My Account Panel**
+Add screenshot here.
+
+**Admin Dashboard**
+Add screenshot here.
+
+---
+
 ## Contributing
 
 Contributions are welcome.
@@ -222,9 +238,11 @@ This project is created for educational and learning purposes.
 
 ## Author
 
-**Divya Jyoti Dev**
+**[Divya Jyoti Dev]**
+
 Computer Science and Engineering Student
-GitHub: [https://github.com/Divya-Jyoti-Dev](https://github.com/Divya-Jyoti-Dev)
+
+GitHub: https://github.com/Divya-Jyoti-Dev
 
 ---
 
