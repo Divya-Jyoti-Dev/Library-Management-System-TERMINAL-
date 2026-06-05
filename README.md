@@ -201,17 +201,17 @@ Some planned enhancements include:
 
 ## Screenshots
 
-**Login Window**
-Add screenshot here.
+**[Login Window]**
 
-**Book Catalog**
-Add screenshot here.
+![Login Screen](https://github.com/Divya-Jyoti-Dev/Library-Management-System-TERMINAL-/blob/cd9737f33fd907ba467b55d6e8b1b299184a341c/Screenshot%202026-06-05%20122230.png)
 
-**My Account Panel**
-Add screenshot here.
+**[Admin Feature]**
 
-**Admin Dashboard**
-Add screenshot here.
+![admin Feature](https://github.com/Divya-Jyoti-Dev/Library-Management-System-TERMINAL-/blob/cd9737f33fd907ba467b55d6e8b1b299184a341c/Screenshot%202026-06-05%20122326.png)
+
+**[Member Feature]**
+
+![Member Feature](https://github.com/Divya-Jyoti-Dev/Library-Management-System-TERMINAL-/blob/cd9737f33fd907ba467b55d6e8b1b299184a341c/Screenshot%202026-06-05%20122359.png)
 
 ---
 
